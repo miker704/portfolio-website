@@ -33,8 +33,7 @@ I am a 26 year old software engineer and computer scientist from New York City a
 <img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
 <img align="left" title="REACT.JS" alt="REACT.JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
 <img align="left" title="REDUX Libary" alt="REDUX" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" title="NODE.JS" alt="NODE.JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /> 
+<img align="left" title="NODE.JS" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" title="RUBY" alt="RUBY" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" /> 
 <img align="left" title="RAILS" alt="RAILS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" /> 
 <img align="left" title="JAVA - Including Spring Framework" alt="JAVA" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/java/java-original-wordmark.svg" />
