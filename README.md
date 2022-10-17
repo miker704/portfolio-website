@@ -43,7 +43,6 @@ I am a 26 year old software engineer and computer scientist from New York City a
 <img align="left" title="C SHARP (C#) Programming Language" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/csharp/csharp-original.svg" /> 
 <img align="left" title="RUST Programming Language" alt="RUST" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/rust/rust-plain.svg" /> 
 <img align="left" title="CRYSTAL" alt="CRYSTAL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/crystal/crystal-original-wordmark.svg" /> 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />           
