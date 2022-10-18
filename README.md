@@ -27,7 +27,7 @@ I am a 26 year old software engineer and computer scientist from New York City a
 
 - 📫 How to reach me ... Send me a message at [miker704@gmail.com](mailto:miker704@gmail.com) [LinkedIn](https://www.linkedin.com/in/michael-ramoutar/) [AngelList](https://angel.co/u/michael-ramoutar-1) [Discord](https://discordapp.com/users/765241782949642280)
 
-### Tools, IDE's, API's & PlatForms:  
+### Tech Stack:  
 
 <img align="left" title="C++ Programming Language" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/cplusplus/cplusplus-original.svg" /> 
 <img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
